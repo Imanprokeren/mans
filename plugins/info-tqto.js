@@ -27,9 +27,9 @@ https://github.com/imanprokeren
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/imannn17n",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/_ctzhid", 
+    description: "https://Instagram.com/imannn17n", 
     title: 'IMAN-BOT-MultiDevice',
     body: wm,
     thumbnail: thumb,
